@@ -5,7 +5,7 @@
 ### An Interactive HR Analytics Dashboard built using **Power BI, SQL, DAX, and Excel** to analyze employee attrition and support data-driven HR decisions.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/riyasaxena11/HR-Analytics-Attrition)
-![GitHub last commit](https://img.shields.io/github/last-commit/riyasaxena11/HR-Analytics-Employee-Attrition)
+![GitHub last commit](https://img.shields.io/github/last-commit/riyasaxena11/HR-Analytics-Attrition)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=mysql)
 ![DAX](https://img.shields.io/badge/DAX-Measures-orange)
@@ -107,13 +107,13 @@ This page focuses on understanding which employee groups have higher attrition.
 
 ## 🏠 Page 1 – HR Overview
 
-![HR Overview Dashboard](Images/Dashboard_Page1.png)
+![HR Overview Dashboard](Dashboard_Page1.png)
 
 ---
 
 ## 📈 Page 2 – Employee Attrition Analysis
 
-![Employee Attrition Analysis](Images/Dashboard_Page2.png)
+![Employee Attrition Analysis](Dashboard_Page2.png)
 
 ---
 
